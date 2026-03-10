@@ -88,4 +88,4 @@ print(response)
 
 ## Acknowledgments
 
-Inspired by [langchain-experiments](https://github.com/engchina/langchain-experiments) by engchina.
+Inspired by [langchain-experiments](https://github.com/daveebbelaar/langchain-experiments) by Dave Ebbelaar.

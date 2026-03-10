@@ -22,7 +22,7 @@ An AI-powered assistant that can answer questions about any YouTube video using 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/youtube-video-assistant.git
+git clone https://github.com/avy234/youtube-video-assistant.git
 cd youtube-video-assistant
 ```
 
